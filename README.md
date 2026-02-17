@@ -4,6 +4,9 @@
 * 💼 I have experience in Flutter Development, Clean Architecture, and State Management (GetX, Provider)
 * 💞️ I’m looking to collaborate on Flutter Mobile Apps, Firebase Projects, and Real-time Applications
 
+ ## 🌐 Portfolio
+🔗 Portfolio: https://surajgujarathi.github.io/my_portfolio/
+
 ## 📫 How to reach me
 
 * 📧 Email: surajsuri1989@gmail.com
